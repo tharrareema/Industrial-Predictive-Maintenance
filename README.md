@@ -48,6 +48,4 @@ Python • TensorFlow / Keras • Pandas • NumPy • Scikit-learn
 - Trigger alerts at thresholds (RUL < 50 cycles)  
 - Schedule retraining pipelines with new operational data  
 
-</details>
-
 ---
